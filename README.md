@@ -6,4 +6,4 @@ Provides the following import wrappers:
 
 * moment.html
 * moment-with-locales.html
-* moment-timezone
+* moment-timezone.html
