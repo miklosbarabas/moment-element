@@ -7,5 +7,6 @@ Provides the following import wrappers:
 * moment.html
 * moment-with-locales.html
 * moment-timezone.html
+* moment-timezone-2010-2020.html
 
 Thanks for @bendavis78 & the moment.js team.
