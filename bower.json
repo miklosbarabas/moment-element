@@ -15,8 +15,8 @@
     "wrapper"
   ],
   "dependencies": {
-    "moment": "^2.6.0",
-    "moment-timezone": "^0.5.5",
+    "moment": "moment/moment#^2.6.0",
+    "moment-timezone": "moment/moment-timezone#^0.5.5",
     "polymer": "Polymer/polymer#^1.1.0"
   },
   "license": "MIT",
