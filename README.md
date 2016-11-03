@@ -8,4 +8,4 @@ Provides the following import wrappers:
 * moment-with-locales.html
 * moment-timezone.html
 
-Thanks for bendavis76 & the moment.js team.
+Thanks for @bendavis78 & the moment.js team.
