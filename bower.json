@@ -4,6 +4,7 @@
   "description": "Element wrapper for the moment.js library",
   "private": true,
   "authors": [
+    "Ben Davis <bendavis78@gmail.com>",
     "Miklos Barabas <mbarabas@gmail.com>"
   ],
   "keywords": [
